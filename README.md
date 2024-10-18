@@ -2,7 +2,7 @@
 
 ![Gameplay Yum Yum Drop](https://github.com/Fernandotambun/2D_Game_Yum_Yum_Drop/blob/main/Gameplay.png)
 
-**Yum Yum Drop** adalah sebuah game 2D di mana pemain mengendalikan karakter untuk mengumpulkan makanan yang jatuh. Tujuan dari permainan ini adalah mengumpulkan sebanyak mungkin makanan sambil menghindari rintangan. Repository ini hanya berisi script inti dari game.
+**Yum Yum Drop** adalah sebuah game 2D di mana pemain mengendalikan karakter untuk mengumpulkan makanan yang jatuh. Tujuan dari permainan ini adalah mengumpulkan sebanyak mungkin makanan. Repository ini hanya berisi script inti dari game.
 
 ## Tutorial
 
@@ -10,7 +10,7 @@ Untuk membantu Anda memahami dan mengatur game ini, kami menyediakan tutorial :
 
 - **Tutorial PPT**: [Lihat PPT di sini](https://link-untuk-ppt.com)
 - **Video Tutorial**: [Tonton video di sini](https://link-untuk-video.com)
-- **Video Tutorial**: [Download Asset Disini](https://drive.google.com/drive/folders/1KQPp9dXY8qe5EE9yg8xPkabac0QcxHWh)
+- **Asset Game**: [Download Asset Disini](https://drive.google.com/drive/folders/1KQPp9dXY8qe5EE9yg8xPkabac0QcxHWh)
 
 ## Struktur Proyek
 
